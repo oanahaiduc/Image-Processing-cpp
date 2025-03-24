@@ -1,0 +1,7 @@
+cmake-build-*/
+build/
+*.o
+*.exe
+*.pgm
+*.txt
+*.log

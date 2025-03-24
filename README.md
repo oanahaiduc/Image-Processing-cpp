@@ -29,7 +29,7 @@ make
 ./Image_Processing_in_C_
 ```
 
-## 📸 Tests
+## Tests
 
 - Tests are defined using assert() and cover:
 - Constructors and image data handling
